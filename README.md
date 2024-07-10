@@ -1,1 +1,3 @@
 # Hospital-Length-of-Stay-Prediction
+
+HealthPlus hospital faces challenges with inefficient resource allocation, leading to revenue losses and compromised patient care. To address this, the project aims to analyze factors influencing patient Length of Stay (LOS) using admission data and test results. A machine learning model will be developed to predict LOS, facilitating better resource planning and staff allocation. Insights derived will inform strategies to optimize healthcare infrastructure and enhance revenue generation. The dataset includes comprehensive admission records of hospitalized patients, providing a basis for improving hospital management efficiency.
